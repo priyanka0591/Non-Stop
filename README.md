@@ -1,4 +1,4 @@
-# News Article Classification App
+# News Classification 
 
 This repository contains a Python application for scraping news articles, training a text classification model, and evaluating its performance using machine learning techniques.
 
